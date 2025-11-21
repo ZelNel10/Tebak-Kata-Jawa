@@ -175,8 +175,7 @@ while True:
     print(warna("\nCatatan:", "33"))
     print("• Soal acak, maksimal 25.")
     print("• Jawab dalam Bahasa Jawa Ngoko.")
-    print("• Kata bisa berupa kerja, sifat, hewan, bagian tubuh.")
-    print("• Skor akan ditampilkan di akhir permainan.\n")
+    print("• Kata bisa berupa kerja, sifat, hewan, bagian tubuh.\n")
 
     ready = input("Ketik 'iya' untuk mulai atau 'tidak' untuk keluar: ").lower()
 
